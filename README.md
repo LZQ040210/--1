@@ -60,7 +60,7 @@ mcp-openclaw-devstudio/
 
 ## 适用场景
 
-- 腾讯 AI 应用开发岗位 - 加速 MCP 协议集成
+-  加速 MCP 协议集成
 - OpenClaw 智能体开发 - 降低 Skill 开发门槛
 - 企业私有化部署 - 内置安全沙箱与权限控制
 - AI 教学与培训 - 可视化学习 MCP 协议
