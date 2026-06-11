@@ -21,7 +21,7 @@
     "Low-Code",
     "Developer Tools"
   ],
-  "author": "Tencent AI DevTeam",
+  "author": "",
   "license": "MIT",
   "devDependencies": {
     "@types/node": "^20.10.0",
